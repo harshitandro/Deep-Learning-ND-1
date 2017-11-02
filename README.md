@@ -6,3 +6,4 @@ This is the project root for **Udactiy Deep Learning Foundation 1 Nanodegree**.
 #### Projects :
 * [Linear Regression : BMI & Life Expectancy](https://github.com/harshitandro/Deep-Learning-ND-1/tree/master/regression_bmi_life_expectancy)
 * [Multiple Linear Regression : Boston House Prices](https://github.com/harshitandro/Deep-Learning-ND-1/tree/master/multiple_regression)
+* [Gradient Descent Implementation : First Neural Net](https://github.com/harshitandro/Deep-Learning-ND-1/tree/master/Gradient_descent_implementation)
