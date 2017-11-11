@@ -21,7 +21,7 @@ weights = {
     'output_layer': tf.Variable(tf.truncated_normal([n_hidden_nodes,n_labels]))
 }
 
-##TODO : Can be replaced with random init values
+##Done : Can be replaced with random init values
 biases = {
     'hidden_layer': tf.Variable(tf.truncated_normal([n_hidden_nodes])),
     'output_layer': tf.Variable(tf.truncated_normal([n_labels]))
