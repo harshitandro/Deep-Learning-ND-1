@@ -2,7 +2,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 import tensorflow as tf
 
 # MNIST dataset loaded & one-hot encoded by tensorflow
-mnist = input_data.read_data_sets("dataset",one_hot=True,reshape=False)
+mnist = input_data.read_data_sets("../dataset/mnist",one_hot=True,reshape=False)
 
 # Setting learning parameters
 learning_rate = 0.01
